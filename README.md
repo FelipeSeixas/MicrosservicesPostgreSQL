@@ -1,8 +1,10 @@
 # MicrosservicesPostgreSQL
 
+*Sistema em contrução*
+
 Conhecimentos e ferramentas utilizadas:
  - Java;
  - PostregreSQL (PGAdmin);
  - Spring (Boot/Framework);
- - JPA; e
+ - Java Persistence API (JPA); e
  - IntelliJ IDEA.
