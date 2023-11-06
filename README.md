@@ -1,2 +1,8 @@
 # MicrosservicesPostgreSQL
-Java, PostregreSQL, Spring (Boot/Framework) e JPA 
+
+Conhecimentos e ferramentas utilizadas:
+ - Java;
+ - PostregreSQL (PGAdmin);
+ - Spring (Boot/Framework);
+ - JPA; e
+ - IntelliJ IDEA.
